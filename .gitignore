@@ -1,0 +1,15 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de editores
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpeta de compilación (si algún día usás herramientas)
+dist/
+build/
