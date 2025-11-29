@@ -20,10 +20,12 @@ body {
 }
 
 /* Estilo del logo del nav */
-.navbar .logo {
-    font-size: 24px;
-    font-weight: bold;
+.navbar .logo img{
+    height: 50px;
+    width: 70px;
     justify-content: start;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 
 /* Mantiene el nav centrado */
