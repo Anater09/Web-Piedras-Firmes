@@ -29,13 +29,15 @@ body {
 }
 
 /* Estilo del logo del nav */
-.navbar .logo img{
-    height: 50px;
-    width: 70px;
+.navbar .logo img {
+    max-width: 70px;
+    height: auto;
+    display: block;  /* opcional, ayuda en algunos casos */
     justify-content: start;
     padding-left: 10px;
     padding-top: 5px;
 }
+
 
 /* Mantiene el nav centrado */
 .nav-links {
@@ -138,6 +140,9 @@ body {
 
 }
 
+<<<<<<< HEAD
+    
+=======
 
 /* Estilos del hero */
 
@@ -338,3 +343,4 @@ body {
         font-size: 0.9rem;
     }
 }
+>>>>>>> 07ddac5 (se terminó imagen principal junto con la sección de historia y demás, se agregó responsivo y todo quedó fino fino fino)
